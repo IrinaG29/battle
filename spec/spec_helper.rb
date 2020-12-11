@@ -1,5 +1,6 @@
 require File.dirname(__FILE__) + '/../app.rb'
 require File.dirname(__FILE__) + '/features/web_helpers.rb'
+# require File.dirname(__FILE__) + './lib/player.rb'
 require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
